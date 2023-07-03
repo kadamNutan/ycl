@@ -1,0 +1,15 @@
+testing points
+
+1. Provision to create Coupon Code for Shop any 2 products, and get 15% off on the lower value product
+2. email master api integration admin panel  
+3. Sending an email to the customer along with a booklet file (PDF) when the Order value is above a certain amount.
+4. all customers, DOB is captured as 1-1-1970.issue
+5. System generated invoice view and download option in admin panel
+6. Generated Customer invoice to be added in Admin Panel vendor-wise
+7. Pick address should be able to download for all sellers
+8. Checks for pickup address- If there is one pickup address in vendor profile then we will send the pickup address to xpressbees or delivery from the vendor profile section itself And while edit the product it will not ask to select pickup address.
+   If there is more than one address then we will send the pickup address to xpressbees or delivery from the products pickup address. And while updating the product vendor needs to select the pickup address manually.
+   If any vendor changes the pickup address then we need to inform the ycl team through email that the vendor changes the pickup address. This is for warehouse updation in Delhivery.
+9. Provision to select Category for Third Party Shipping or Self Shipping in the Admin Panel, as its for Fresh and local category. Mattress should be in Self Shipping
+10.Sample Toggle issue 
+11.Paytm payment not working issue 
